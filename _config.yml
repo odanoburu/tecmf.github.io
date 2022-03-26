@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   O grupo desenvolveu técnicas e ferramentas em transformação de programas, de 1993 a 2001, na geração de programas a partir de especificações de alto nível tanto quanto a sua aplicação ao problema de código legado. De de 2002 a 2012, o grupo desenvolveu técnicas e modelos lógico/formais com o objetivo de modelagem e validação de sistemas antecipatórios e com semânticas baseadas em Jogos e outros modelos de racionalidade., juntamente com um verificadore de modelos baseados em jogos. Usamos Teoria das Categhorias na modelagem e esppecificação de interoperabilidade formal em arquiteturas de software e sistemas baseados em conhecimento, ou ontologias. A partir de 2008 desenvolvemos lógicas e modelos para a representação de conhecimeto legal (Legal Ontologies) e normativo. Aplicações em refinamento e análise formal de conformidade de bases de conhecimento normativo para o mercado de segurança da informação, resolução de paradoxos legais e putras aplicações mais sofisticadas. Atualmente o grupo está bastante envolvido em torno da complexidade computacional de provas de teoremas e obtenção de provas curtas em lógica proposicional.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tecmf.github.io/pagina/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
