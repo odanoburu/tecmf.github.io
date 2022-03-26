@@ -1,0 +1,67 @@
+---
+layout: post
+title: Projetos
+date: 2022-03-25 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Projetos, Lógica Dinâmica, Redes de Petri, Teoria das Categorias, Teoria da Prova, Ontologias, Theorem Prover] # add tag
+---
+# Lista dos Principais Projetos desenvolvidos pelo grupo
+
+## Projetos em Andamento
+
+### Verificação de modelos de software com Lógica Dinâmica e Redes de Petri
+
+**CNPq 441952/2014-3.** Lógica Proposicional Dinâmica (PDL) é um sistema lógico multi-modal utilizada para especificar e verificar propriedades em programas sequenciais. Redes de Petri são um formalismo largamente utilizado na especificação de sistemas concorrentes e possuem uma interpretação gráfica bastante intuitiva. Neste trabalho apresentam-se aplicações de extensões da Lógica Proposicional Dinâmica onde os programas são substituídos por Redes de Petri Estocásticas de forma a efetuar a verificação formal de propriedades em software. O objetivo é converter automaticamente especificações UML em Redes de Petri Estocásticas para efetuar inferências e certificar propriedades.
+
+
+### Teoria das Categorias e Teoria da Prova: Uma interação via Computação
+
+**CNPq 442127/2014-6.** Este projeto de pesquisa investiga como a Teoria da Prova e a Teoria das Categorias podem contribuir como base teórica para a fundamentação de Linguagens e Abordagens Lógicas e Semânticas. Seus objetivos globais são: (i) Investigar como técnicas e ferramentas da Teoria das Categorias podem ser usadas no processo de especificação semântica de modelos e sistemas (ii) Investigar como o uso de conceitos, técnicas e abordagens em Teoria da Prova podem ser usados na fundamentação de Linguagens e abordagens lógicas para a representação de conhecimento e modelos de sistemas (provavelmente com o uso de Ontologias Formais) (iii) Relacionar os ítens i e ii acima através de morfismos composicionais (Funtores) e associar uma semântica computável a estes morfismos. Os objetivos gerais são bastante amplos e ambiciosos. Vamos então passar aos objetivos específicos.  Destacam-se: (i) A elaboração de sistemas dedutivos mais estruturados, que facilitam a geração de explicação de teoremas. (ii) Estender a pesquisa já iniciada e relatada por Lew and Haeusler no que diz respeito a obtenção de esquemas heurísticos para obtenção de provas curtas (tamanho polinomial em relação a apresentação da teoria)  para lógicas já conhecidas da comunidade de representação do conhecimento (iii) Definição de novas lógicas mais adequadas a certos domínios específicos, como a representação de conhecimento legal, onde trabalhos anteriores em devem ser considerados (iv) Aplicar a álgebra de operações de composição e refinamento de ontologias, e seus respectivos algoritmos, como descrito por Kelsen,  de forma efetiva a  contribuir para a construção e validação composicional  de ontologias; (v) Estudar a existência de Categorias com noções internas de finitude não padrão, de forma a incorpora-las em modelos computacionais para estudo teórico de hipercomputação.
+
+
+### Logic and Information
+
+**CAPES 4804-14-7.** This project aims to propose an improvement on a long-term already existing collaboration between INRIA, the brazilians and the argentin named team. We already have a CAPES-COFECUB cooperation (n. 690/10, namely "Teorias lógicas contemporâneas e a filosofia da linguagem: questões epistemológicas e semânticas") that leaded to many students interchange and technical visits of Professors, including the organisation of some workshops (the last one was the II Workshop on Logic and Semantics, at UERJ, Ilha Grande-RJ, Brazil - [[LogicSemanticsII]]).
+Prof. Gilles Dowek is also a Co-Advisor with Prof. Edward Hermann Haeusler of a brazilian Ph.D. Candidate in this project (and a former one also in this project, these two candidates finalised recently a sandwich doctorate - similar to stage doctorale - at INRIA). Prof. Gilles Dowek also collaborates with other members of this team and is supervising a post-doc project of another member.
+Since 2011 members of the team presents seminars in the Deducteam group, also coordinated by Prof. Gilles Dowek (more information in [[http://www.cri.ensmp.fr/people/hermant/deducteam/seminars.html]]), and since 2009 for the former group of Prof. Gilles Dowek at Laboratoire d'Informatique de l'École polytechnique (LIX).
+Among our collaboration we propose the development of some subprojects as specific goals.
+We propose the continuation of an ongoing joint work to propose a resolution based system for automatic theorem proving in some modal logics. The project also presents a subproject for reasoning about model-driven engineering discipline models defining a metamodel (the description of the syntax of a modeling language).
+Another subproject proposes two tasks regarding information extraction using logical background. The first one regards how to extract, process and interoperate data and the last one uses counterfactuals to reason about the future.
+It is important to notice that the results of the subprojects are interchangeable.
+More specifically we proposes a joint research with Deducteam about proof-compression, and developments in about verifying properties and extracting data about programs properties.
+
+## Projetos Finalizados
+
+
+### Lógica intuicionista como base para ontologias jurídicas
+
+**CNPq 483460/2011-7.** Este projeto visa investigar a eficiência da lógica descritiva intuicionista como alternativa à ALC clássica, com foco no domínio das ontologias jurídicas. Assim, espera-se promover a consolidação de conhecimentos de teoria da prova, focado na prova automática de teoremas. Além dos estudos sobre lógica descritiva, propõe-se o desenvolvimento de um ferramental para a prova automática de teoremas através de tableaux e dedução natural. Esse mesmo ferramental será adequado de forma que possa ser utilizado no ensino de lógica em cursos de graduação e pós-graduação. Por fim, trabalhar-se-á num módulo do provador para explicação em termos jurídicos.
+
+### Tableaux Prover
+
+A first order logic automatic and semi-automatic theorem prover on tableaux.
+
+Source code available at [[https://github.com/blopesvieira/TableauxProver]].
+
+Home page: [[TableauxProver]]
+
+### Hemera Web
+
+Project home page at [[http://github.com/|GitHub]]: http://github.com/jeffsantos/hemeraweb
+
+Try it at http://proof.tecmf.inf.puc-rio.br/proof
+
+### Hemera Theorem Prover
+
+Yet another theorem prover.
+
+Available at [[http://github.com/|GitHub]]: [[http://github.com/arademaker/hemera]]
+
+### Game Analysis Logic Verifier
+
+Visit [[GALV| Game Analysis Logic Verifier]] page!
+
+### Projeto Anubis
+
+Um Framework para Análise Formal de Sistemas Multi-Agente para Segurança da Informação.

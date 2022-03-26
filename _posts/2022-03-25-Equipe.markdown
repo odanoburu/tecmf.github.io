@@ -1,0 +1,64 @@
+---
+layout: post
+title: Equipe
+date: 2022-03-25 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: dylan-gillis-KdeqA3aTnBY-unsplash.jpg # Add image post (optional)
+tags: [Grupo, Inria, UFF, UFCat, FGV, UniRio] # add tag
+---
+
+A equipe do grupo está distribuída pelo mundo nos mais diversos centros de pesquisa e ensino.
+
+# Membros do grupo TecMF
+
+## Lider:
+
+ > [Edward Hermann Haeusler](http://www.inf.puc-rio.br/blog/professor/@edward-hermann-haeusler/)
+
+ Edward Herman Haeusler é professor associado da PUC-Rio e tem como area de atuação a Ciencia da Computação voltada a Computabilidade e Modelos de Computação. Nesse setor pesquisa teoria da prova, teoria das
+categorias, semântica formal e Lógica. Possui graduação em Matemática pela Universidade de Brasília (1983), mestrado em Informática pela Pontifícia Universidade Católica do Rio de Janeiro (1986) e doutorado em Informática também pela PUC-Rio (1990).
+
+## Pesquisadores e Contribuidores:
+
+ * [Bruno Lopes]([http://www.ic.uff.br/~bruno)
+ * [Christiano Braga](http://www.ic.uff.br/~cbraga)
+ * [DaviRomero](Davi Romero de Vasconcelos)
+ * [Geiza Hamazaki](http://bsi.uniriotec.br/professores/index.html)
+ * [Gilles Dowek](https://who.rocq.inria.fr/Gilles.Dowek/)
+ * [Isabel Cafezeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=29)
+ * [Jean-Baptiste Joinet](http://www-philo.univ-paris1.fr/Joinet/NEW/index.php)
+ * [LewGordeew](Lew Gordeew)
+ * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/depto_docente.html)
+ * [Valeria de Paiva]([http://www.valeriadepaiva.org/)
+ * [Vaston Goncalves da Costa](https://sigaa.sistemas.ufcat.edu.br/sigaa/public/docente/portal.jsf?siape=1315553)
+ * [CeciliaEnglander](Cecília Englander)
+ * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima)
+ * [Jefferson Santos](jeffsantos.github.io)
+
+Doutorandos:
+
+ * Guilherme Silva
+ * Bernardo Alkmim
+ * Bruno Cuconato
+ * Cleyton Slavieiro
+
+Mestrandos:
+
+ * Robinson Callou
+
+Granduandos
+ * Luiz Carlos Vianna 
+
+Ex-membros:
+
+ * [Alexandre Rademaker]([http://arademaker.github.io/)
+ * [Bruno Schröeder](Bruno Schroeder)
+ * [Carlos Bazílio](Carlos Bazílio)
+ * [Fernando Naufel](Fernando Náufel do Amaral)
+ * [Juliana Carpes Imperial](Juliana Carpes Imperial)
+ * [Marco Teixeira](Marco Teixeira)
+ * [Vitor Pinheiro](Vitor Pinheiro)
+ * [Hugo Macedo](Hugo Macedo)
+ * [Marcela Cruz](Marcela Cruz)
+ * [Ranieri Batista](Ranieri Batista)
+ * [José Flávio Barros](José Flávio Barros)

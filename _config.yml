@@ -1,28 +1,26 @@
-title: Hello, world! I'm David Freeman
+title: TecMF
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  O grupo desenvolveu técnicas e ferramentas em transformação de programas, de 1993 a 2001, na geração de programas a partir de especificações de alto nível tanto quanto a sua aplicação ao problema de código legado. De de 2002 a 2012, o grupo desenvolveu técnicas e modelos lógico/formais com o objetivo de modelagem e validação de sistemas antecipatórios e com semânticas baseadas em Jogos e outros modelos de racionalidade., juntamente com um verificadore de modelos baseados em jogos. Usamos Teoria das Categhorias na modelagem e esppecificação de interoperabilidade formal em arquiteturas de software e sistemas baseados em conhecimento, ou ontologias. A partir de 2008 desenvolvemos lógicas e modelos para a representação de conhecimeto legal (Legal Ontologies) e normativo. Aplicações em refinamento e análise formal de conformidade de bases de conhecimento normativo para o mercado de segurança da informação, resolução de paradoxos legais e putras aplicações mais sofisticadas. Atualmente o grupo está bastante envolvido em torno da complexidade computacional de provas de teoremas e obtenção de provas curtas em lógica proposicional.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Laboratório de Métodos Formais # add your name
+author-img: tecmf.png # add your photo
+about-author: Emprego de métodos formais, tais como, Teoria da Prova, Teoria das Categorias, Sistemas Lógicos e Prova Assistida de Teoremas em Ciência da Computação em geral, particularmente no desenvolvimento e validação de sistemas, modelos de computação e complexidade computacional. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: TecMF # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: hermann@inf.puc-rio.br # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier:  # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: Google Analytics
 
 # Build Settings
 markdown: kramdown

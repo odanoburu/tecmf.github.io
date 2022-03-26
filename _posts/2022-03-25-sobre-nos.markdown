@@ -1,0 +1,38 @@
+---
+layout: post
+title: Sobre Nós
+date: 2022-03-25 13:32:20 +0300
+description: O grupo desenvolveu técnicas e ferramentas em transformação de programas, de 1993 a 2001, na geração de programas a partir de especificações de alto nível tanto quanto a sua aplicação ao problema de código legado. De de 2002 a 2012, o grupo desenvolveu técnicas e modelos lógico/formais com o objetivo de modelagem e validação de sistemas antecipatórios e com semânticas baseadas em Jogos e outros modelos de racionalidade., juntamente com um verificadore de modelos baseados em jogos. Usamos Teoria das Categhorias na modelagem e esppecificação de interoperabilidade formal em arquiteturas de software e sistemas baseados em conhecimento, ou ontologias. A partir de 2008 desenvolvemos lógicas e modelos para a representação de conhecimeto legal (Legal Ontologies) e normativo. Aplicações em refinamento e análise formal de conformidade de bases de conhecimento normativo para o mercado de segurança da informação, resolução de paradoxos legais e putras aplicações mais sofisticadas. Atualmente o grupo está bastante envolvido em torno da complexidade computacional de provas de teoremas e obtenção de provas curtas em lógica proposicional. # Add post description (optional)
+img: aideal-hwa-OYzbqk2y26c-unsplash.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Métodos Formais, Prova Assistida, Lógica, Filosofia]
+---
+Da aplicação de tecnologia formal para o desenvolvimento de softwares ao diálogo com professores de filosofia, passando por projetos industriais nas áreas de energia, óleo e gás. O perfil versátil faz parte do leque de atividades desenvolvidas pelo Laboratório de Métodos Formais (TecMF) do Departamento de Informática. Um dos 14 laboratórios do DI, o TecMF se dedica a pesquisar a aplicação da Teoria da Prova, Teoria das Categorias, Sistemas Lógicos, Prova Assistida de Teoremas em Ciência da Computação em geral, e, principalmente, validação de sistemas, modelos de computação e complexidade computacional.
+
+Embora os campos de pesquisa sejam inovadores, o TecMF tem uma longa história. Fruto da remodelação de um antigo laboratório criado no início dos anos 1990, ele ganhou identidade própria ainda na virada do milênio, a partir de uma demanda acadêmica e unindo professores e estudantes da pós-graduação na criação de novos projetos científicos.
+
+## Áreas de atuação
+Das principais áreas do laboratório, a que mais se destaca no TecMF está relacionada aos estudos em desenvolvimento e aplicação de tecnologia formal. A formalização, nas palavras do coordenador do laboratório, o professor Edward Hermann, é um processo diligente. “É resolver problemas e desafios de forma que seja muito mais do que simplesmente solucioná-los. Não estamos interessados em só resolver, mas explicar por que e como o processo foi resolvido. É explicar, formalmente, e de maneira precisa”.
+
+## Parceria com Filosofia
+Para resolver esses quebra-cabeças, o TecMF conta com um apoio que pode ser um pouco inusitado para os não-familiarizados com o laboratório: o do Departamento de Filosofia. Em um campo onde as ciências exatas e as humanas se encontram, a colaboração se torna essencial.
+
+> “Certos conceitos em computação têm paralelos muito grandes com ideias da filosofia analítica, da filosofia da linguagem e da filosofia da matemática. Usamos muitos conceitos traçados por filósofos como, por exemplo, o conceito de prova. O que você pode usar como prova? Isso é muito importante para comprovação de que uma prova está sendo bem aplicada. Precisamos dessas ideias da filosofia para não derrapar”.
+
+![Encontro TecMF em Ilha Grande-RJ]({{site.baseurl}}/assets/img/TecMF-Lyon.jpg)
+
+## Aprimoramento constante
+
+Além da parceria entre Departamentos, o TecMF também olha para dentro na hora de escolher quais os próximos passos a serem dados em suas pesquisas. Integrantes do laboratório vindos de outros países costumam trazer desafios ou questões abordadas no exterior com potencial para serem pesquisadas pelo TecMF. A partir dessas ideias, é iniciada a fase de pré-projeto, e os alunos podem escolher participar da pesquisa.
+
+## Parcerias internas
+O laboratório mantém uma forte parceria com o Laboratório de Bioinformática e Banco de Dados (BioBD), coordenado pelo professor Sérgio Lifschitz. Juntos, os dois grupos mantêm trabalhos relacionados à modelagem. O TecMF também conta com uma parceria de longa data com o Telemídia, laboratório que trabalha com sistemas multimídia e hipermídia.
+
+## Estimulo
+Hoje, participam do TecMF alunos em diferentes níveis de estudo da computação, desde a graduação até o pós-doutorado. Os estudantes de iniciação científica, que conduzem projetos próprios, são estimulados a participar dos seminários do laboratório, interagindo com aqueles que já têm uma carreira mais consolidada no mundo da informática.
+
+![Encontro TecMF em Ilha Grande-RJ]({{site.baseurl}}/assets/img/TecMF-ilha-grande-768x439.jpeg)
+
+## Mote
+Abraçando os mais diferentes projetos, fica evidente que a colaboração é a base dos trabalhos do TecMF. 
+> “Nós temos como princípio evitar de recusar desafios. Os desafios estão aí para a gente aprender com eles”, finalizou.
