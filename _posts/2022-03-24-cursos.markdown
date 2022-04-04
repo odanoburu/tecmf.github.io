@@ -11,3 +11,7 @@ tags: [Cursos, Disciplinas, Material de apoio] # add tag
 
 
 Material de apoio de cursos e disciplinas ministradas pelos membros do grupo.
+
+# Eventos
+
+- [Escola de Lógica](/pages/escola_logica)

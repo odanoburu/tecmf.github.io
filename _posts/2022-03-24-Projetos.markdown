@@ -22,9 +22,9 @@ tags: [Projetos, Lógica Dinâmica, Redes de Petri, Teoria das Categorias, Teori
 
 ### Logic and Information
 
-**CAPES 4804-14-7.** This project aims to propose an improvement on a long-term already existing collaboration between INRIA, the brazilians and the argentin named team. We already have a CAPES-COFECUB cooperation (n. 690/10, namely "Teorias lógicas contemporâneas e a filosofia da linguagem: questões epistemológicas e semânticas") that leaded to many students interchange and technical visits of Professors, including the organisation of some workshops (the last one was the II Workshop on Logic and Semantics, at UERJ, Ilha Grande-RJ, Brazil - [[LogicSemanticsII]]).
+**CAPES 4804-14-7.** This project aims to propose an improvement on a long-term already existing collaboration between INRIA, the brazilians and the argentin named team. We already have a CAPES-COFECUB cooperation (n. 690/10, namely "Teorias lógicas contemporâneas e a filosofia da linguagem: questões epistemológicas e semânticas") that leaded to many students interchange and technical visits of Professors, including the organisation of some workshops (the last one was the II Workshop on Logic and Semantics, at UERJ, Ilha Grande-RJ, Brazil).
 Prof. Gilles Dowek is also a Co-Advisor with Prof. Edward Hermann Haeusler of a brazilian Ph.D. Candidate in this project (and a former one also in this project, these two candidates finalised recently a sandwich doctorate - similar to stage doctorale - at INRIA). Prof. Gilles Dowek also collaborates with other members of this team and is supervising a post-doc project of another member.
-Since 2011 members of the team presents seminars in the Deducteam group, also coordinated by Prof. Gilles Dowek (more information in [[http://www.cri.ensmp.fr/people/hermant/deducteam/seminars.html]]), and since 2009 for the former group of Prof. Gilles Dowek at Laboratoire d'Informatique de l'École polytechnique (LIX).
+Since 2011 members of the team presents seminars in the Deducteam group, also coordinated by Prof. Gilles Dowek (more information in <http://www.cri.ensmp.fr/people/hermant/deducteam/seminars.html>), and since 2009 for the former group of Prof. Gilles Dowek at Laboratoire d'Informatique de l'École polytechnique (LIX).
 Among our collaboration we propose the development of some subprojects as specific goals.
 We propose the continuation of an ongoing joint work to propose a resolution based system for automatic theorem proving in some modal logics. The project also presents a subproject for reasoning about model-driven engineering discipline models defining a metamodel (the description of the syntax of a modeling language).
 Another subproject proposes two tasks regarding information extraction using logical background. The first one regards how to extract, process and interoperate data and the last one uses counterfactuals to reason about the future.
@@ -42,25 +42,24 @@ More specifically we proposes a joint research with Deducteam about proof-compre
 
 A first order logic automatic and semi-automatic theorem prover on tableaux.
 
-Source code available at [[https://github.com/blopesvieira/TableauxProver]].
+Source code available at <https://github.com/blopesvieira/TableauxProver>
 
-Home page: [[TableauxProver]]
 
 ### Hemera Web
 
-Project home page at [[http://github.com/|GitHub]]: http://github.com/jeffsantos/hemeraweb
+Project home page at <http://github.com/jeffsantos/hemeraweb>
 
-Try it at http://proof.tecmf.inf.puc-rio.br/proof
+Try it at <http://proof.tecmf.inf.puc-rio.br/proof>
 
 ### Hemera Theorem Prover
 
 Yet another theorem prover.
 
-Available at [[http://github.com/|GitHub]]: [[http://github.com/arademaker/hemera]]
+Available at <http://github.com/arademaker/hemera>
 
 ### Game Analysis Logic Verifier
 
-Visit [[GALV| Game Analysis Logic Verifier]] page!
+Visit [GALV](Game Analysis Logic Verifier)
 
 ### Projeto Anubis
 
