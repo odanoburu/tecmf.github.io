@@ -15,4 +15,5 @@ Material de apoio de cursos e disciplinas ministradas pelos membros do grupo.
 
 # Eventos
 
-- [Escola de Lógica](/pages/escola_logica)
+- [Encontro Brasileiro de Lógica 2006](/pages/ebl06)
+- [Escola de Lógica 2005](/pages/escola_logica)
