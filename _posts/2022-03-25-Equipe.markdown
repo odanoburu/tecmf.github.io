@@ -19,7 +19,11 @@ A equipe do grupo está distribuída pelo mundo nos mais diversos centros de pes
  Edward Herman Haeusler é professor associado da PUC-Rio e tem como area de atuação a Ciencia da Computação voltada a Computabilidade e Modelos de Computação. Nesse setor pesquisa teoria da prova, teoria das
 categorias, semântica formal e Lógica. Possui graduação em Matemática pela Universidade de Brasília (1983), mestrado em Informática pela Pontifícia Universidade Católica do Rio de Janeiro (1986) e doutorado em Informática também pela PUC-Rio (1990).
 
-## Pesquisadores e Contribuidores:
+## Demais Membros:
+
+<button type="button" class="collapsible" id="pesq">Pesquisadores e Contribuidores</button>
+
+<div class="content" id="pesqdata" markdown="1">
 
  * [Bruno Lopes]([http://www.ic.uff.br/~bruno)
  * [Christiano Braga](http://www.ic.uff.br/~cbraga)
@@ -35,22 +39,34 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * [CeciliaEnglander](Cecília Englander)
  * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima)
  * [Jefferson Santos](jeffsantos.github.io)
+</div>
 
-Doutorandos:
+<button type="button" class="collapsible" id="douto">Doutorandos</button>
+
+<div class="content" id="doutodata" markdown="1">
 
  * Guilherme Silva
  * Bernardo Alkmim
  * Bruno Cuconato
  * Cleyton Slavieiro
+ </div>
+ 
+<button type="button" class="collapsible" id="mestr">Mestrandos</button>
 
-Mestrandos:
+<div class="content" id="mestrdata" markdown="1">
 
  * Robinson Callou
+</div>
 
-Granduandos
+<button type="button" class="collapsible" id="grad">Graduandos</button>
+
+<div class="content" id="graddata" markdown="1">
  * Luiz Carlos Vianna 
+</div>
 
-Ex-membros:
+<button type="button" class="collapsible" id="ex">Ex-Membros</button>
+
+<div class="content" id="exdata" markdown="1">
 
  * [Alexandre Rademaker]([http://arademaker.github.io/)
  * [Bruno Schröeder](Bruno Schroeder)
@@ -63,3 +79,23 @@ Ex-membros:
  * [Marcela Cruz](Marcela Cruz)
  * [Ranieri Batista](Ranieri Batista)
  * [José Flávio Barros](José Flávio Barros)
+
+</div>
+
+<!-- Start Collapse.html -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = document.getElementById(this.id+"data");
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+<!-- End Collapse.html -->

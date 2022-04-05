@@ -13,15 +13,28 @@ tags: [Projetos, Lógica Dinâmica, Redes de Petri, Teoria das Categorias, Teori
 
 ### Verificação de modelos de software com Lógica Dinâmica e Redes de Petri
 
+<button type="button" class="collapsible" id="proj1">Detalhes:</button>
+
+<div class="content" id="proj1data" markdown="1">
+
+
 **CNPq 441952/2014-3.** Lógica Proposicional Dinâmica (PDL) é um sistema lógico multi-modal utilizada para especificar e verificar propriedades em programas sequenciais. Redes de Petri são um formalismo largamente utilizado na especificação de sistemas concorrentes e possuem uma interpretação gráfica bastante intuitiva. Neste trabalho apresentam-se aplicações de extensões da Lógica Proposicional Dinâmica onde os programas são substituídos por Redes de Petri Estocásticas de forma a efetuar a verificação formal de propriedades em software. O objetivo é converter automaticamente especificações UML em Redes de Petri Estocásticas para efetuar inferências e certificar propriedades.
 
+</div>
 
 ### Teoria das Categorias e Teoria da Prova: Uma interação via Computação
 
-**CNPq 442127/2014-6.** Este projeto de pesquisa investiga como a Teoria da Prova e a Teoria das Categorias podem contribuir como base teórica para a fundamentação de Linguagens e Abordagens Lógicas e Semânticas. Seus objetivos globais são: (i) Investigar como técnicas e ferramentas da Teoria das Categorias podem ser usadas no processo de especificação semântica de modelos e sistemas (ii) Investigar como o uso de conceitos, técnicas e abordagens em Teoria da Prova podem ser usados na fundamentação de Linguagens e abordagens lógicas para a representação de conhecimento e modelos de sistemas (provavelmente com o uso de Ontologias Formais) (iii) Relacionar os ítens i e ii acima através de morfismos composicionais (Funtores) e associar uma semântica computável a estes morfismos. Os objetivos gerais são bastante amplos e ambiciosos. Vamos então passar aos objetivos específicos.  Destacam-se: (i) A elaboração de sistemas dedutivos mais estruturados, que facilitam a geração de explicação de teoremas. (ii) Estender a pesquisa já iniciada e relatada por Lew and Haeusler no que diz respeito a obtenção de esquemas heurísticos para obtenção de provas curtas (tamanho polinomial em relação a apresentação da teoria)  para lógicas já conhecidas da comunidade de representação do conhecimento (iii) Definição de novas lógicas mais adequadas a certos domínios específicos, como a representação de conhecimento legal, onde trabalhos anteriores em devem ser considerados (iv) Aplicar a álgebra de operações de composição e refinamento de ontologias, e seus respectivos algoritmos, como descrito por Kelsen,  de forma efetiva a  contribuir para a construção e validação composicional  de ontologias; (v) Estudar a existência de Categorias com noções internas de finitude não padrão, de forma a incorpora-las em modelos computacionais para estudo teórico de hipercomputação.
+<button type="button" class="collapsible" id="proj2">Detalhes</button>
 
+<div class="content" id="proj2data" markdown="1">
+
+**CNPq 442127/2014-6.** Este projeto de pesquisa investiga como a Teoria da Prova e a Teoria das Categorias podem contribuir como base teórica para a fundamentação de Linguagens e Abordagens Lógicas e Semânticas. Seus objetivos globais são: (i) Investigar como técnicas e ferramentas da Teoria das Categorias podem ser usadas no processo de especificação semântica de modelos e sistemas (ii) Investigar como o uso de conceitos, técnicas e abordagens em Teoria da Prova podem ser usados na fundamentação de Linguagens e abordagens lógicas para a representação de conhecimento e modelos de sistemas (provavelmente com o uso de Ontologias Formais) (iii) Relacionar os ítens i e ii acima através de morfismos composicionais (Funtores) e associar uma semântica computável a estes morfismos. Os objetivos gerais são bastante amplos e ambiciosos. Vamos então passar aos objetivos específicos.  Destacam-se: (i) A elaboração de sistemas dedutivos mais estruturados, que facilitam a geração de explicação de teoremas. (ii) Estender a pesquisa já iniciada e relatada por Lew and Haeusler no que diz respeito a obtenção de esquemas heurísticos para obtenção de provas curtas (tamanho polinomial em relação a apresentação da teoria)  para lógicas já conhecidas da comunidade de representação do conhecimento (iii) Definição de novas lógicas mais adequadas a certos domínios específicos, como a representação de conhecimento legal, onde trabalhos anteriores em devem ser considerados (iv) Aplicar a álgebra de operações de composição e refinamento de ontologias, e seus respectivos algoritmos, como descrito por Kelsen,  de forma efetiva a  contribuir para a construção e validação composicional  de ontologias; (v) Estudar a existência de Categorias com noções internas de finitude não padrão, de forma a incorpora-las em modelos computacionais para estudo teórico de hipercomputação.
+</div>
 
 ### Logic and Information
+<button type="button" class="collapsible" id="proj3">Detalhes</button>
+
+<div class="content" id="proj3data" markdown="1">
 
 **CAPES 4804-14-7.** This project aims to propose an improvement on a long-term already existing collaboration between INRIA, the brazilians and the argentin named team. We already have a CAPES-COFECUB cooperation (n. 690/10, namely "Teorias lógicas contemporâneas e a filosofia da linguagem: questões epistemológicas e semânticas") that leaded to many students interchange and technical visits of Professors, including the organisation of some workshops (the last one was the II Workshop on Logic and Semantics, at UERJ, Ilha Grande-RJ, Brazil).
 Prof. Gilles Dowek is also a Co-Advisor with Prof. Edward Hermann Haeusler of a brazilian Ph.D. Candidate in this project (and a former one also in this project, these two candidates finalised recently a sandwich doctorate - similar to stage doctorale - at INRIA). Prof. Gilles Dowek also collaborates with other members of this team and is supervising a post-doc project of another member.
@@ -31,13 +44,29 @@ We propose the continuation of an ongoing joint work to propose a resolution bas
 Another subproject proposes two tasks regarding information extraction using logical background. The first one regards how to extract, process and interoperate data and the last one uses counterfactuals to reason about the future.
 It is important to notice that the results of the subprojects are interchangeable.
 More specifically we proposes a joint research with Deducteam about proof-compression, and developments in about verifying properties and extracting data about programs properties.
+</div>
 
 ## Projetos Finalizados
 
 
 ### Lógica intuicionista como base para ontologias jurídicas
+<button type="button" class="collapsible" id="proj4">Detalhes</button>
+
+<div class="content" id="proj4data" markdown="1">
 
 **CNPq 483460/2011-7.** Este projeto visa investigar a eficiência da lógica descritiva intuicionista como alternativa à ALC clássica, com foco no domínio das ontologias jurídicas. Assim, espera-se promover a consolidação de conhecimentos de teoria da prova, focado na prova automática de teoremas. Além dos estudos sobre lógica descritiva, propõe-se o desenvolvimento de um ferramental para a prova automática de teoremas através de tableaux e dedução natural. Esse mesmo ferramental será adequado de forma que possa ser utilizado no ensino de lógica em cursos de graduação e pós-graduação. Por fim, trabalhar-se-á num módulo do provador para explicação em termos jurídicos.
+</div>
+
+### Projeto Anubis
+<button type="button" class="collapsible" id="proj5">Detalhes</button>
+
+<div class="content" id="proj5data" markdown="1">
+
+Um Framework para Análise Formal de Sistemas Multi-Agente para Segurança da Informação.
+
+</div>
+
+## Produtos
 
 ### Tableaux Prover
 
@@ -62,6 +91,22 @@ Available at <http://github.com/arademaker/hemera>
 
 Visit [GALV](Game Analysis Logic Verifier)
 
-### Projeto Anubis
 
-Um Framework para Análise Formal de Sistemas Multi-Agente para Segurança da Informação.
+
+<!-- Start Collapse.html -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = document.getElementById(this.id+"data");
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+<!-- End Collapse.html -->
