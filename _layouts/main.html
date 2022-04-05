@@ -11,19 +11,6 @@ layout: default
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
   </header> <!-- End Header -->
-  <body>
-    <section class="contact">
-    <h3 class="contact-title">Menu</h3>
-    <nav>
-      <ul>
-        <!-- <li><a href="/Home/"> Home</a> </li> -->
-        <li><a href="/Equipe/"> Equipe</a> </li>
-        <li><a href="/Projetos/"> Projetos</a> </li>
-        <li><a href="/Cursos/"> Cursos</a> </li>
-      </ul>
-    </nav>
-  </section>
-  </body>
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contatos</h3>
@@ -61,16 +48,31 @@ layout: default
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
+  <!-- <div> -->
+    <section class="contact">
+      <h3 class="contact-title"> Menu </h3>
+      <nav>
+        <ul>
+          <li><a href="/Home/"> Home</a> </li>
+          <li><a href="/Equipe/"> Equipe</a> </li>
+          <li><a href="/Projetos/"> Projetos</a> </li>
+          <li><a href="/Cursos/"> Cursos</a> </li>
+        </ul>
+      </nav>
+    </section>
+    <hr />
+  <!-- </div> -->
   {{ content }}
 </div>
 
 <style>
   nav ul {
     display: flex;
-    list-style: none;
+    margin: 0;
   }
   nav ul li {
-    margin-right: 5px;
+    margin-right: 80px;
+    float: center;
   }
   
   nav ul li a:hover {
