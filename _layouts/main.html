@@ -10,8 +10,20 @@ layout: default
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
-    </div>
   </header> <!-- End Header -->
+  <body>
+    <section class="contact">
+    <h3 class="contact-title">Menu</h3>
+    <nav>
+      <ul>
+        <!-- <li><a href="/Home/"> Home</a> </li> -->
+        <li><a href="/Equipe/"> Equipe</a> </li>
+        <li><a href="/Projetos/"> Projetos</a> </li>
+        <li><a href="/Cursos/"> Cursos</a> </li>
+      </ul>
+    </nav>
+  </section>
+  </body>
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contatos</h3>
@@ -51,3 +63,20 @@ layout: default
 <div class="content-box clearfix">
   {{ content }}
 </div>
+
+<style>
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  nav ul li {
+    margin-right: 5px;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  .active {
+    text-decoration: underline;
+  }
+</style>
