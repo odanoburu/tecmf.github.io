@@ -11,6 +11,35 @@ tags: [Projetos, Lógica Dinâmica, Redes de Petri, Teoria das Categorias, Teori
 
 ## Projetos em Andamento
 
+### Aplicabilidade de nova tecnologia voltada para o desenvolvimento de um modelo de monitoramento inteligente dos ativos de transmissão
+<button type="button" class="collapsible" id="projb">Detalhes:</button>
+
+<div class="content" id="projbdata" markdown="1">
+
+Projeto de P&D ANEEL, obtido por chamada publica em 2018. Início em 2021. 3 anos de duração..
+
+</div>
+
+
+### Compressão de provas e a conjectura NP = PSPACE 
+<button type="button" class="collapsible" id="proja">Detalhes:</button>
+
+<div class="content" id="projadata" markdown="1">
+
+**APQ1-Faperj.** A Teoria da Prova, iniciada por Hilbert, tem se mostrado uma ferramenta teórica e de fundamentacão de amplo espectro em ciência da computação. Suas contribuições aparecem em áreas desde complexidade computacional a engenharia de software e representação do conhecimento. Por exemplo, algumas de suas mais relevantes contribuições envolvem geração de programas a partir de provas intuicionistas, semântica de programas e sistemas de computação, via diversos sistemas de tipo e lambda-calculi e finalmente otimização de código funcional via combinadores. Teoria da prova também é fortemente utilizada como fundamento para formalismos de especificação e validação de teorias na matemática construtiva. Este projeto propõe o estudo de uma abordagem baseada em teoria da prova em ciência da computação, abordando, em específico, o tema de produção de provas curtas (compressão de provas), bem como de seu uso no auxílio a processos de validação de bases de conhecimento em domínios específicos. Como é bem sabido, a existência de provas curtas (de tamanho polinomial em relação a conclusão da prova) para todas as tautologias de uma lógica proposicional L implica em NP = PSPACE, se L é a lógica minimal ou a lógica intuicionista e CoNP = NP se a L é a lógica clássica. Particularmente, se NP = PSPACE então CoNP = NP...
+
+</div>
+
+### SMO - Desenvolvimento e aperfeiçoamento de sistemas de apoio as operações offshore (ANP-Petrobras)
+
+<button type="button" class="collapsible" id="proj0">Detalhes:</button>
+
+<div class="content" id="proj0data" markdown="1">
+P & D Petrobras Project ANP funding.
+
+Financiador: Agência Nacional do Petróleo
+</div>
+
 ### Verificação de modelos de software com Lógica Dinâmica e Redes de Petri
 
 <button type="button" class="collapsible" id="proj1">Detalhes:</button>

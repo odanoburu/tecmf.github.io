@@ -25,20 +25,20 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
 
 <div class="content" id="pesqdata" markdown="1">
 
- * [Bruno Lopes]([http://www.ic.uff.br/~bruno)
- * [Christiano Braga](http://www.ic.uff.br/~cbraga)
- * [DaviRomero](Davi Romero de Vasconcelos)
- * [Geiza Hamazaki](http://bsi.uniriotec.br/professores/index.html)
- * [Gilles Dowek](https://who.rocq.inria.fr/Gilles.Dowek/)
- * [Isabel Cafezeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=29)
- * [Jean-Baptiste Joinet](http://www-philo.univ-paris1.fr/Joinet/NEW/index.php)
- * [LewGordeew](Lew Gordeew)
- * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/depto_docente.html)
- * [Valeria de Paiva]([http://www.valeriadepaiva.org/)
- * [Vaston Goncalves da Costa](https://sigaa.sistemas.ufcat.edu.br/sigaa/public/docente/portal.jsf?siape=1315553)
- * [CeciliaEnglander](Cecília Englander)
- * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima)
- * [Jefferson Santos](jeffsantos.github.io)
+ * [Bruno Lopes]([http://www.ic.uff.br/~bruno){:target="\_blank"}
+ * [Cecilia Englander](http://www.inf.puc-rio.br/blog/professor/cecilia-reis-englander-lustosa/){:target="\_blank"}
+ * [Christiano Braga](http://www.ic.uff.br/~cbraga){:target="\_blank"}
+ * [DaviRomero](https://www.quixada.ufc.br/docente/davi-romero-de-vasconcelos/){:target="\_blank"}
+ * [Geiza Hamazaki](http://buscatextual.cnpq.br/buscatextual/visualizacv.do){:target="\_blank"}
+ * [Gilles Dowek](https://who.rocq.inria.fr/Gilles.Dowek/){:target="\_blank"}
+ * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima){:target="\_blank"}
+ * [Isabel Cafezeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=29){:target="\_blank"}
+ * [Jean-Baptiste Joinet](https://www.univ-lyon3.fr/joinet-jean-baptiste){:target="\_blank"}
+ * [Jefferson Santos](jeffsantos.github.io){:target="\_blank"}
+ * [Lev Gordeev](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/logik-und-sprachtheorie/personen/ehemalige-und-sonstige-mitarbeiter/pd-dr-lev-gordeev/){:target="\_blank"}
+ * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/o-departamento/corpo-docente/luiz-carlos-pinheiro-dias-pereira/){:target="\_blank"}
+ * [Valeria de Paiva]([http://www.valeriadepaiva.org/){:target="\_blank"}
+ * [Vaston Goncalves da Costa](https://sigaa.sistemas.ufcat.edu.br/sigaa/public/docente/portal.jsf?siape=1315553){:target="\_blank"}
 </div>
 
 <button type="button" class="collapsible" id="douto">Doutorandos</button>
