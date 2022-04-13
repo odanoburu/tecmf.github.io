@@ -34,7 +34,7 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima){:target="\_blank"}
  * [Isabel Cafezeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=29){:target="\_blank"}
  * [Jean-Baptiste Joinet](https://www.univ-lyon3.fr/joinet-jean-baptiste){:target="\_blank"}
- * [Jefferson Santos](jeffsantos.github.io){:target="\_blank"}
+ * [Jefferson Santos](https://ebape.fgv.br/en/faculty/jefferson-santos){:target="\_blank"}
  * [Lev Gordeev](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/logik-und-sprachtheorie/personen/ehemalige-und-sonstige-mitarbeiter/pd-dr-lev-gordeev/){:target="\_blank"}
  * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/o-departamento/corpo-docente/luiz-carlos-pinheiro-dias-pereira/){:target="\_blank"}
  * [Valeria de Paiva](https://vcvpaiva.github.io/){:target="\_blank"}
