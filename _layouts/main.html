@@ -52,6 +52,15 @@ layout: default
     <!-- <section class="contact"> -->
       <!-- <h3 class="contact-title"> Menu </h3> -->
       <nav id="navbar">
+        <div id="google_translate_element"></div>
+      <script type="text/javascript">// <![CDATA[
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'pt-br'}, 'google_translate_element');
+        }
+        // ]]>
+      </script>
+      <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript">
+      </script>
         <ul id="menu">
           <li><a href="/"> Home</a> </li>
           <!-- <li><a href="/Home/"> About</a> </li> -->
@@ -69,8 +78,24 @@ layout: default
 
 <style>
   .menu_bar{
-    /* padding: 20px; */
+     padding: 20px;
     padding-left: 260px;
+    display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+    -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
   }
 
   nav {
@@ -114,6 +139,34 @@ layout: default
     transition: padding 1s;
   }
 
+  @media only screen and (max-width: 480px) {
+  .menu_bar {
+    padding: 10px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .menu_bar {
+    padding: 20px 10px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+        -ms-flex-align: stretch;
+            align-items: stretch;
+  }
+}
+
 </style>
 
 <script>
@@ -128,7 +181,5 @@ layout: default
       navbar.classList.remove("sticky");
     }
   }
-
-
-
 </script>
+      
