@@ -47,33 +47,57 @@ layout: default
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
-<div class="content-box clearfix">
+<div class="menu_bar">
   <!-- <div> -->
-    <section class="contact">
-      <h3 class="contact-title"> Menu </h3>
-      <nav>
-        <ul>
-          <li><a href="/Home/"> Home</a> </li>
+    <!-- <section class="contact"> -->
+      <!-- <h3 class="contact-title"> Menu </h3> -->
+      <nav id="navbar">
+        <ul id="menu">
+          <li><a href="/"> Home</a> </li>
+          <!-- <li><a href="/Home/"> About</a> </li> -->
           <li><a href="/Equipe/"> Equipe</a> </li>
           <li><a href="/Projetos/"> Projetos</a> </li>
           <li><a href="/Cursos/"> Cursos</a> </li>
+          <li style="float:right"><a href="/Home/">About</a></li>
         </ul>
       </nav>
-    </section>
+    <!-- </section> -->
     <hr />
   <!-- </div> -->
   {{ content }}
 </div>
 
 <style>
+  .menu_bar{
+    /* padding: 20px; */
+    padding-left: 260px;
+  }
+
+  nav {
+    width: 100%;
+    padding: 20px 0;
+    text-align: right;
+    background: #ffff;
+  }
+
+
   nav ul {
+    list-style-type: none;
     display: flex;
     margin: 0;
+    width: 100%;
   }
   nav ul li {
-    margin-right: 80px;
-    float: center;
+    margin-right: 30px;
+    float: left;
   }
+  nav li a {
+  display: inline-block;
+  color: #111111;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
   
   nav ul li a:hover {
     text-decoration: underline;
@@ -81,4 +105,30 @@ layout: default
   .active {
     text-decoration: underline;
   }
+
+  nav.sticky{
+    position: fixed;
+    top: 0;
+    background: rgb(187, 185, 185);
+    text-decoration-color: #ffffff;
+    transition: padding 1s;
+  }
+
 </style>
+
+<script>
+  var navbar = document.getElementById("navbar");
+  var menu = document.getElementById("menu");
+
+  window.onscroll = function(){
+    if(window.pageYOffset >= menu.offsetTop){
+      navbar.classList.add("sticky");
+    }
+    else{
+      navbar.classList.remove("sticky");
+    }
+  }
+
+
+
+</script>
