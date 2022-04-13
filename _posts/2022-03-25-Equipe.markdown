@@ -25,7 +25,7 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
 
 <div class="content" id="pesqdata" markdown="1">
 
- * [Bruno Lopes]([http://www.ic.uff.br/~bruno){:target="\_blank"}
+ * [Bruno Lopes](http://www.ic.uff.br/~bruno){:target="\_blank"}
  * [Cecilia Englander](http://www.inf.puc-rio.br/blog/professor/cecilia-reis-englander-lustosa/){:target="\_blank"}
  * [Christiano Braga](http://www.ic.uff.br/~cbraga){:target="\_blank"}
  * [DaviRomero](https://www.quixada.ufc.br/docente/davi-romero-de-vasconcelos/){:target="\_blank"}
