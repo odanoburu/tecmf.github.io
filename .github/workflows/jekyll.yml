@@ -58,7 +58,7 @@ jobs:
       - name: Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: tecmf ftpes.inf.puc-rio.br
+          server: ftpes.inf.puc-rio.br
           username: tecmf
           password: ${{ secrets.FTPES_PASSWORD }}
           protocol: ftps
